@@ -1,8 +1,8 @@
 +++
-title = "Menolak lupa dengan menulis di blog statis!"
+title = "Menolak lupa dengan menulis di blog statis"
 date = 2020-06-28
 +++
-# Menolak lupa dengan menulis di blog statis!
+# Menolak lupa dengan menulis di blog statis
 
 Seharusnya konten ini salin saja catatan dari macbook air kantor nih, tapi lupa file markdown-nya disimpan di mana :|
 
