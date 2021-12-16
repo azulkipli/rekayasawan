@@ -1,10 +1,8 @@
 +++
-title = "Second Zola blog post"
+title = "Tulisan kedua di blog baru ini"
 date = 2020-06-29
 +++
-# Hello world!
-
-My Second zola blog post.
+# Tulisan kedua di blog baru ini!
 
 ## Donec eget ex magna.
 

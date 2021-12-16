@@ -1,10 +1,10 @@
 +++
-title = "First Zola blog post"
+title = "Menolak lupa dengan menulis di blog statis!"
 date = 2020-06-28
 +++
-# Hello world!
+# Menolak lupa dengan menulis di blog statis!
 
-My first zola Blog Page.
+Seharusnya konten ini salin saja catatan dari macbook air kantor nih.
 
 ## Lorem ipsum dolor sit amet
 
