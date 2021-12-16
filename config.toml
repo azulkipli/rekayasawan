@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://rekayasawan.pages.dev"
 
+title="Rekayasawan Blog | media praktisi rekayasa perangkat lunak"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
