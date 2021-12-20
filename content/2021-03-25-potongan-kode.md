@@ -1,9 +1,9 @@
 +++
-title = "Code Snippets"
-description =  "Post about code snippets"
+title = "Potongan Kode"
+description =  "contoh potongan kode"
 +++
 
-Code blocks.. with automatic syntax highlighting!
+Blok kode dengan syntax highlighting otomatsi!
 
 ``` scala
 def add(x: Int, y: Int): Int = x + y

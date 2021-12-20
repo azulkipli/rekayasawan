@@ -1,6 +1,6 @@
 +++
-title = "Example of elements"
-description = "Post showcasing elements"
+title = "Contoh semua elemen"
+description = "contoh pengaplikasian element"
 [extra]
 image = "favicon.ico"
 +++
