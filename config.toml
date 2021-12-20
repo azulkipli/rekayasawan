@@ -34,8 +34,8 @@ seo = true
 author = "azul"
 ogimage = "lightning.png"
 
-zola = false
-netlify = false
+zola = true
+cloudflare = true
 maintained_with_love = false
 
 footer_links = [
