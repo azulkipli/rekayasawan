@@ -8,9 +8,6 @@ description = "blog nya rekayasawan perangkat lunak"
 compile_sass = true
 generate_feed = true
 
-highlight_code = true
-highlight_theme = "gruvbox-light"
-
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
