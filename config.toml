@@ -2,7 +2,7 @@
 base_url = "https://rekayasawan.pages.dev"
 theme = "lightspeed"
 title = "Rekayasawan"
-description = "blog nya rekayasawan perangkat lunak"
+description = "blog rekayasawan perangkat lunak"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -39,5 +39,4 @@ footer_links = [
     {url = "$BASE_URL/", name = "Beranda"},
     {url = "$BASE_URL/tentang", name = "Tentang"},
     {url = "$BASE_URL/atom.xml", name = "RSS"},
-    {url = "https://github.com/azulkipli/rekayasawan", name = "Kode di Github"},
 ]
