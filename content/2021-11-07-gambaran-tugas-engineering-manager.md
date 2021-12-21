@@ -39,8 +39,6 @@ Berikut ini rangkuman gambaran tugas seorang Engineering Manager:
 - Melakukan perbaikan terhadap proses, material, alat dan sistem yang sedang berjalan
 - Menerapkan solusi dan perancangan.
 
-
-
 Dikutip dari berbagai sumber diantaranya
   
 - https://www.betterteam.com/engineer-job-description
